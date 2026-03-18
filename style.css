@@ -5,7 +5,7 @@
 :root{
   --bg: #000000;
   --card: #2b1e0be6;
-  --text: #fdeccc;
+  --text: #e2d5bd;
   --muted: hsl(220, 7%, 68%);
   --brand: #1cb092d5;
   --brand-ink: #3a322cf1;
@@ -95,7 +95,7 @@ header{
   max-width: 980px;
   margin: 0 auto;
   width: 100%;
-  margin-bottom: 40px; 
+  margin-bottom: 30px; 
 }
 
 .logo{
@@ -147,7 +147,7 @@ main{
 h1{
   font-size: clamp(40px, 10vw, 76px);
   line-height: 1.05;
-  margin: 0 0 16px;
+  margin: 0 0 20px;
 }
 
 .sub{
