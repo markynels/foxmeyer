@@ -73,7 +73,7 @@ body::before{
   z-index: 1; /* above image */
   pointer-events: none;
   background:
-    radial-gradient(1200px 600px at 80% -10%, #2d869e5c 0%);
+    radial-gradient(1200px 600px at 80% -10%, #9014ab5c 0%);
   --darkreader-ignore: true;
 }
 
@@ -145,7 +145,7 @@ main{
 }
 
 h1{
-  font-size: clamp(40px, 10vw, 76px);
+  font-size: clamp(30px, 10vw, 76px);
   line-height: 1.05;
   margin: 0 0 20px;
 }
